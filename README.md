@@ -1,4 +1,4 @@
-# # Simple-Grayscale-Image-Manipulation
+# Simple-Grayscale-Image-Manipulation
 A collection of very simple image analysis and manipulation techniques for grayscale images
 
 All files read a grayscale image `example.png`, and perform an operation on it.
